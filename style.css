@@ -14,7 +14,7 @@
   
   .container{
     max-width: 450px;
-    background: #223300;
+    background: #b80000;
     border-radius: 8px;
     box-shadow: 0px 0px 15px 3px rgba(48, 153, 202, 0.815));
     font-family: sans-serif;
@@ -31,11 +31,11 @@
   
   .Temperature-icon{
     font-size: 45px;
-    color: #ffffff;
+    color: #fc7575d0;
   }
   
   h1{
-    color: #ffffff;
+    color: #fd7676;
     letter-spacing: 1.2px;
     font-size: 30px;
   }
